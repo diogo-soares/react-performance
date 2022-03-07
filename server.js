@@ -1,3 +1,5 @@
+const { ModuleResolutionKind } = require("typescript");
+
 module.exports = () => {
     const data = {
         products: [],
